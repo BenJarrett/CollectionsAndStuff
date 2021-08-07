@@ -33,7 +33,7 @@ namespace CollectionsAndStuff
             // Collection Initializer // - curly braces with elements inside //
             var teacherNames = new List<string> { "Nathan", "Jameka", "Dylan", "Tom" };
 
-            // ADD ONE COLLECTION TO ANOTHER //
+            // ADD RANGE - ADD ONE COLLECTION TO ANOTHER //
             e14Names.AddRange(teacherNames);
 
             // REMOVE ITEM FROM LIST // 
